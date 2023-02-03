@@ -50,7 +50,7 @@ The starter code for this app _does not exist in this repo_.
 
 ### Step 2: Break the columns into components
 
-* Move the two column divs into their own separate components (in separate files), `FilmList.js` and `Details.js`.
+* Move the two column divs into their own separate components (in separate files), `FilmListing.js` and `FilmDetails.js`.
 * Render the components inside **App** so your app ends up looking exactly like it did in the previous step. 
 
 ---
@@ -94,7 +94,7 @@ If you check your file, it still shouldn't look differently. We're sending the p
 
 ### Step 4: Render a film
 
-In the `FilmList` component, render the title of just the first film as an `<h1>`, below the `section-title`.
+In the `FilmListing` component, render the title of just the first film as an `<h1>`, below the `section-title`.
 
 Does "It" appear on the left side of your browser?
 
